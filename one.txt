@@ -1,4 +1,4 @@
 Bharat Mahanta
 Ghatgone
 JP Morgan chase
-DevOps Engineer
+DevOps EngineerJenkins, Docker, K8s, Sonarqube, Nexus, AWSInsights, prometheus, Grafana, Terraform, AWS, AZURE.
